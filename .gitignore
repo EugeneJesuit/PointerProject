@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/Pointers/.vs/Pointers
+/Pointers/Pointers/x64/Debug
+/Pointers/x64/Debug
